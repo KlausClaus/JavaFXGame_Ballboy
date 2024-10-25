@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0711103-89d3-4cc1-82b9-c4b9aaf4f2d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2222_asm/2021-INFO2222-assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../2222_asm/2021-INFO2222-assignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2222asm2/bottle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2412asm2/W18B_Group7_assignment2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/hashmap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/hashmap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/instantiate.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/instantiate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/maptest.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/qalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/qalloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/bench/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410/hashmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410asm1/code-submission" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410asm3/Mytest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410code/sort" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3410hw4/optimistic-locking-on-a-linked-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Challenge/hello-from-c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/assignment-1-nd-minesweeper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/assignment-2-svc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/battleships" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/channels" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/hashy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/office" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_Task/rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INFO2222/usdy--/src/components/ForgotPasswordComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INFO2222/usdy--/src/components/HomePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/Tutorial 4/src/main/java/test/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/Tutorial 4/src/test/java/test/aptest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOFT2412/Tiger-King" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOFT2412/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scaffold/src/main/java/invadem/quantum/quantum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/SomethingWrong.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/Successfully.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/change.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/profile.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/setting.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Setting/uos.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asm2/HomePage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bottle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casm2/code-submission" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw5/readwrite-binary-tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info2222_2021_logbook/info2222_2021_logbook/Security logbook/defense and attack log.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info2222_2021_logbook/info2222_2021_logbook/Security logbook/pre.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info2222_2021_logbook/info2222_2021_logbook/Security logbook/virtual user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isys_3/ISYS2120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soft3888/cp2_canvas_integration_tools_for_schools" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soft3888/wiki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/ForumList_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/Forum_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/change_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/login_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/messaging.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/messaging_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/received_messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/register1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/stafflist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/studentlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/info2222_2021_logbook" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/Forum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/ForumList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/HomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/forgot1.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/login2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/login3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/logout1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/message_return.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/messaging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/received_messages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/register1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/register2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/sent1.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/staffList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/studentList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual_login_Forum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual_register.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20ulLgeCzRWGz1cpM4KhU7aiXTL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0711103-89d3-4cc1-82b9-c4b9aaf4f2d4" name="Changes" comment="" />
+      <created>1636902299939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636902299939</updated>
+      <workItem from="1636902302471" duration="517000" />
+      <workItem from="1638341821545" duration="416000" />
+      <workItem from="1638614986651" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
